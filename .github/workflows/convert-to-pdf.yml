@@ -27,14 +27,15 @@ jobs:
           name: E-Book Logika Perbatasan
           path: ebook/logika_perbatasan.*
 
-      - name: Commit & Push PDF to Repository
+
+      - name: Commit & Push PDF ke Repository (PAT)
         env:
-         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-         run: |
+          PAT_TOKEN: ${{ secrets.PAT_TOKEN }}
+        run: |
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@github.com"
           git checkout main
           git pull origin main
           git add ebook/logika_perbatasan.pdf
           git commit -m "Menambahkan versi terbaru e-book"
-          git push origin main
+          git push https://x-access-token:${{ secrets.PAT_TOKEN }}@github.com/Raviyanto/logika-perbatasan.git HEAD:main
