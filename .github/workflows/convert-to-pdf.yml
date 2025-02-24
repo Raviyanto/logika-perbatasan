@@ -1,0 +1,28 @@
+name: Build E-Book
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  convert:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Install Pandoc
+        run: sudo apt-get install -y pandoc texlive-xetex
+
+      - name: Convert Markdown to PDF
+        run: pandoc ebook/*.md -o ebook/logika_perbatasan.pdf --pdf-engine=xelatex
+
+      - name: Convert Markdown to EPUB
+        run: pandoc ebook/*.md -o ebook/logika_perbatasan.epub
+
+      - name: Upload PDF & EPUB to Repository
+        uses: actions/upload-artifact@v2
+        with:
+          name: E-Book Logika Perbatasan
+          path: ebook/logika_perbatasan.*
