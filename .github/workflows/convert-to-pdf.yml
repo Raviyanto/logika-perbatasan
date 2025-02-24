@@ -27,8 +27,7 @@ jobs:
           name: E-Book Logika Perbatasan
           path: ebook/logika_perbatasan.*
 
-      
-      - name: Commit & Push PDF ke Repository
+      - name: Commit & Push PDF to Repository
         env:
          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
          run: |
