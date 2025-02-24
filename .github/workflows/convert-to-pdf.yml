@@ -40,5 +40,6 @@ jobs:
           git checkout main
           git pull origin main
           git add ebook/logika_perbatasan.pdf
+          git add ebook/logika_perbatasan.epub
           git commit -m "Menambahkan versi terbaru e-book"
           git push https://x-access-token:${{ secrets.PAT_TOKEN }}@github.com/Raviyanto/logika-perbatasan.git HEAD:main
