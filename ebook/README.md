@@ -29,22 +29,22 @@
 - 📌 4.2 [Jenis-Jenis Jembatan dalam Berpikir](04_jembatan.md#4-2-jenis-jenis-jembatan-dalam-berpikir)  
 
 ### **📖 [BAB 5 – BEDA MANUSIA DAN HEWAN: KESADARAN DAN RASIONALITAS](05_beda_manusia_dan_hewan.md)**  
-- 📌 5.1 [Apa yang Membuat Manusia Berbeda dari Hewan?](05_manusia_vs_hewan.md#5-1-apa-yang-membuat-manusia-berbeda-dari-hewan)  
-- 📌 5.2 [Apakah Hewan Bisa Memiliki Kesadaran Logika?](05_manusia_vs_hewan.md#5-2-apakah-hewan-bisa-memiliki-kesadaran-logika)  
-- 📌 5.3 [Logika Perbatasan dalam Evolusi Kesadaran](05_manusia_vs_hewan.md#5-3-logika-perbatasan-dalam-evolusi-kesadaran)  
+- 📌 5.1 [Apa yang Membuat Manusia Berbeda dari Hewan?](05_beda_manusia_dan_hewan.md#5-1-apa-yang-membuat-manusia-berbeda-dari-hewan)  
+- 📌 5.2 [Apakah Hewan Bisa Memiliki Kesadaran Logika?](05_beda_manusia_dan_hewan.md#5-2-apakah-hewan-bisa-memiliki-kesadaran-logika)  
+- 📌 5.3 [Logika Perbatasan dalam Evolusi Kesadaran](05_beda_manusia_dan_hewan.md#5-3-logika-perbatasan-dalam-evolusi-kesadaran)  
 
 ### **📖 [BAB 6 – ATAS DAN BAWAH: PERBATASAN DIMENSI SPIRITUAL DAN MATERIAL](06_atas_bawah.md)**  
-- 📌 6.1 [Materialisme vs. Spiritualitas: Konflik atau Keseimbangan?](06_atas_vs_bawah.md#6-1-materialisme-vs-spiritualitas-konflik-atau-keseimbangan)  
+- 📌 6.1 [Materialisme vs. Spiritualitas: Konflik atau Keseimbangan?](06_atas_bawah.md#6-1-materialisme-vs-spiritualitas-konflik-atau-keseimbangan)  
 
 ### **📖 [BAB 7 – KEPALA DAN PERUT: PERBATASAN PEMIKIRAN DAN NALURI](07_kepala_dan_perut.md)**  
-- 📌 7.1 [Dada sebagai Zona Perbatasan Antara Pikiran dan Insting](07_kepala_vs_perut.md#7-1-dada-sebagai-zona-perbatasan-antara-pikiran-dan-insting)  
+- 📌 7.1 [Dada sebagai Zona Perbatasan Antara Pikiran dan Insting](07_kepala_dan_perut.md#7-1-dada-sebagai-zona-perbatasan-antara-pikiran-dan-insting)  
 
 ### **📖 [BAB 8 – FILSAFAT PERBATASAN SEBAGAI CARA HIDUP](08_filsafat_perbatasan.md)**  
-- 📌 8.1 [Menggunakan Filsafat Perbatasan dalam Kehidupan Sehari-hari](08_cara_hidup.md#8-1-menggunakan-filsafat-perbatasan-dalam-kehidupan-sehari-hari)  
+- 📌 8.1 [Menggunakan Filsafat Perbatasan dalam Kehidupan Sehari-hari](08_filsafat_perbatasan.md#8-1-menggunakan-filsafat-perbatasan-dalam-kehidupan-sehari-hari)  
 
 ### **📖 [BAB 9 – MANIFESTO FILSAFAT PERBATASAN](09_manifesto_filsafat.md)**  
-- 📌 9.1 [Prinsip-Prinsip Dasar yang Harus Dipahami](09_manifesto.md#9-1-prinsip-prinsip-dasar-yang-harus-dipahami)  
-- 📌 9.2 [Bagaimana Setiap Orang Bisa Berkontribusi?](09_manifesto.md#9-2-bagaimana-setiap-orang-bisa-berkontribusi)  
+- 📌 9.1 [Prinsip-Prinsip Dasar yang Harus Dipahami](09_manifesto_filsafat.md#9-1-prinsip-prinsip-dasar-yang-harus-dipahami)  
+- 📌 9.2 [Bagaimana Setiap Orang Bisa Berkontribusi?](09_manifesto_filsafat.md#9-2-bagaimana-setiap-orang-bisa-berkontribusi)  
 
 ### **📖 [BAB 10 – KESIMPULAN: MENUJU MASA DEPAN DENGAN LOGIKA PERBATASAN](10_kesimpulan.md)**  
 - 📌 10.1 [Mengapa Filsafat Perbatasan Penting?](10_kesimpulan.md#10-1-mengapa-filsafat-perbatasan-penting)  
