@@ -17,3 +17,5 @@ Logika Konduktif adalah pendekatan untuk menyeberangi perbatasan pemikiran denga
 🌍 **Mari kita kembangkan Filsafat Perbatasan sebagai ilmu terbuka untuk dunia!**  
 https://raviyanto.github.io/logika-perbatasan/ebook/
 [Hello, world!](https://raviyanto.github.io/logika-perbatasan/ebook/){target="_blank"}
+
+<a href="https://raviyanto.github.io/logika-perbatasan/ebook/" target="_blank">Hello, google!</a>
