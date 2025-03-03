@@ -1,0 +1,35 @@
+/* Format judul bab */
+h1 { 
+    page-break-before: always; /* Memulai setiap bab di halaman baru */
+    text-align: center; /* Pusatkan judul bab */
+    font-size: 2em; 
+    font-weight: bold;
+}
+
+/* Format subjudul */
+h2 { 
+    margin-top: 2em; 
+    font-size: 1.5em; 
+}
+
+/* Format paragraf */
+p { 
+    text-align: justify; /* Membuat teks lebih enak dibaca */
+    line-height: 1.5em; 
+    margin-bottom: 1em; 
+}
+
+/* Format daftar isi */
+nav[epub|type~="toc"] { 
+    text-align: center; 
+    font-weight: bold; 
+    margin-bottom: 2em;
+}
+
+/* Memastikan gambar tidak terlalu besar */
+img { 
+    max-width: 100%; 
+    height: auto; 
+    display: block; 
+    margin: 1em auto;
+}
