@@ -31,7 +31,7 @@ jobs:
         run: pandoc ebook/*.md -s -o ebook/logika_perbatasan.pdf --pdf-engine=xelatex --template=template.tex
 
       - name: Convert Markdown to EPUB
-        run: pandoc ebook/*.md -s -o ebook/logika_perbatasan.epub --toc --css=ebook/style.css
+        run: pandoc ebook/*.md -s -o ebook/logika_perbatasan.epub --toc --css=ebook/style.css --metadata-file=ebook/metadata.yaml
 
       - name: Upload PDF & EPUB to Repository
         uses: actions/upload-artifact@v4
