@@ -20,12 +20,7 @@ jobs:
 
       - name: Install Pandoc
         run: sudo apt-get install -y pandoc texlive-xetex
-
-      - name: Install Microsoft Fonts  # ✅ Tambahkan langkah ini
-        run: |
-          sudo apt-get install -y ttf-mscorefonts-installer
-          fc-cache -fv
-        
+      
       - name: Create Pandoc Template Directory
         run: mkdir -p ~/.local/share/pandoc/templates/
 
