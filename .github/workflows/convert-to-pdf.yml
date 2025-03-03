@@ -23,7 +23,7 @@ jobs:
 
       - name: Install Microsoft Fonts  # ✅ Tambahkan langkah ini
         run: |
-          sudo apt install -y ttf-mscorefonts-installer
+          sudo apt-get install -y ttf-mscorefonts-installer
           fc-cache -fv
         
       - name: Create Pandoc Template Directory
