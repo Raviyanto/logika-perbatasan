@@ -24,5 +24,4 @@
 
 📌 **Petunjuk:** Klik tautan untuk membuka masing-masing bab.  
 🔥 **Mari jelajahi Filsafat Perbatasan dan temukan cara berpikir yang lebih fleksibel dan bijak!**  
-\newpage
 
