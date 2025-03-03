@@ -15,6 +15,9 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
+      - name: Debug - List Files in Repository
+        run: ls -R  # 🔍 Mengecek apakah template.tex ada di repo
+
       - name: Install Pandoc
         run: sudo apt-get install -y pandoc texlive-xetex
         
