@@ -19,10 +19,10 @@ jobs:
         run: sudo apt-get install -y pandoc texlive-xetex
 
       - name: Convert Markdown to PDF
-        run: pandoc ebook/*.md -o ebook/logika_perbatasan.pdf --pdf-engine=xelatex
+        run: pandoc ebook/*.md -s -o ebook/logika_perbatasan.pdf --pdf-engine=xelatex --variable geometry:margin=1in
 
       - name: Convert Markdown to EPUB
-        run: pandoc ebook/*.md -o ebook/logika_perbatasan.epub
+        run: pandoc ebook/*.md -s -o ebook/logika_perbatasan.epub --toc
 
       - name: Upload PDF & EPUB to Repository
         uses: actions/upload-artifact@v4
