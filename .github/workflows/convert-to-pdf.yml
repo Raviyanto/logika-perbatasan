@@ -17,9 +17,15 @@ jobs:
 
       - name: Install Pandoc
         run: sudo apt-get install -y pandoc texlive-xetex
+        
+      - name: Create Pandoc Template Directory
+        run: mkdir -p ~/.local/share/pandoc/templates/
+
+      - name: Copy Custom LaTeX Template
+        run: cp template.tex ~/.local/share/pandoc/templates/
 
       - name: Convert Markdown to PDF
-        run: pandoc ebook/*.md -s -o ebook/logika_perbatasan.pdf --pdf-engine=xelatex --template=./template.tex
+        run: pandoc ebook/*.md -s -o ebook/logika_perbatasan.pdf --pdf-engine=xelatex --template=template.tex
 
       - name: Convert Markdown to EPUB
         run: pandoc ebook/*.md -s -o ebook/logika_perbatasan.epub --toc --css=style.css
