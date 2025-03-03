@@ -1,0 +1,20 @@
+\documentclass[12pt]{article}
+\usepackage{geometry}
+\geometry{a4paper, margin=1in} % Mengatur margin
+\usepackage{fontspec}
+\setmainfont{Times New Roman} % Font utama
+\usepackage{titlesec}
+
+% Format judul bab besar dan tebal
+\titleformat{\section}
+  {\normalfont\Huge\bfseries}{\thesection}{1em}{}
+
+% Memastikan setiap bab dimulai di halaman baru
+\usepackage{etoolbox}
+\pretocmd{\section}{\clearpage}{}{}
+
+\begin{document}
+
+$body$
+
+\end{document}
