@@ -1,16 +1,14 @@
 \documentclass[12pt]{article}
 \usepackage{geometry}
-\geometry{a4paper, margin=1in} % Mengatur margin
+\geometry{a4paper, margin=1in}
 \usepackage{fontspec}
-\setmainfont{TeX Gyre Termes} % Gunakan font yang tersedia di Ubuntu
+\setmainfont{TeX Gyre Termes}
 \usepackage{titlesec}
-\usepackage{hyperref}  % ✅ Tambahkan paket ini agar \hypertarget tidak error
+\usepackage{hyperref}
 
-% Format judul bab besar dan tebal
-\titleformat{\section}
-  {\normalfont\Huge\bfseries}{\thesection}{1em}{}
+% Mencegah error \tightlist
+\providecommand{\tightlist}{\setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
 
-% Memastikan setiap bab dimulai di halaman baru
 \usepackage{etoolbox}
 \pretocmd{\section}{\clearpage}{}{}
 
