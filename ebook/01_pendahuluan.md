@@ -40,9 +40,9 @@ Filsafat perbatasan bertujuan untuk memahami bagaimana batas-batas ini memengaru
 
 ---
 
-### **🔍 Kesimpulan Awal**  
+## **🔍 Kesimpulan Awal**  
 Perbatasan tidak selalu berarti pembatasan. Justru, dalam filsafat, perbatasan bisa menjadi ruang kreativitas, transformasi, dan refleksi kritis terhadap dunia kita.  
 
-📌 **Pertanyaan untuk Renungan:**  
+### **📌 Pertanyaan untuk Renungan:**  
 - Apakah perbatasan lebih banyak membatasi atau membuka peluang?  
 - Bagaimana kita bisa memahami perbatasan yang tidak kasat mata, seperti batas antara realitas dan ilusi?  
