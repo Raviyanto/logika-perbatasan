@@ -1,4 +1,4 @@
-# **BAB 2: LOGIKA PERBATASAN - MENGELOLA KETEGANGAN DI ZONA ABU-ABU**  
+# **BAB 2: LOGIKA PERBATASAN**  
 
 ## **Konsep Dasar Logika Perbatasan**  
 
