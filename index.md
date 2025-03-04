@@ -16,3 +16,11 @@ Logika Konduktif adalah pendekatan untuk menyeberangi perbatasan pemikiran denga
 
 🌍 **Mari kita kembangkan Filsafat Perbatasan sebagai ilmu terbuka untuk dunia!**  
 <a href="https://raviyanto.github.io/logika-perbatasan/ebook/" target="_blank">Silakan Ikut!</a>
+
+📚 **Buku ini adalah panduan lengkap untuk memahami dan menerapkan Filsafat Perbatasan dalam kehidupan, ilmu pengetahuan, dan pemikiran manusia.**  
+---
+
+## 📥 **Unduh E-Book dalam Format PDF/EPUB**  
+📄 **[Download PDF](logika_perbatasan.pdf)**  
+📚 **[Download EPUB](logika_perbatasan.epub)**  
+
