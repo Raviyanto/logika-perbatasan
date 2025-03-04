@@ -1,15 +1,15 @@
-# **BAB 10: KESIMPULAN - MENUJU MASA DEPAN DENGAN LOGIKA PERBATASAN**  
+# **BAB 10: MENUJU MASA DEPAN DENGAN FILSAFAT PERBATASAN**  
 
-## **10.1 Mengapa Filsafat Perbatasan Penting?**  
+## **Mengapa Filsafat Perbatasan Penting?**  
 
 Sepanjang buku ini, kita telah menjelajahi bagaimana perbatasan bukan hanya tentang pemisahan, tetapi juga **tentang peluang, transisi, dan integrasi**.  
 
-### **📌 Poin-Poin Kunci Mengapa Filsafat Perbatasan Relevan:**  
+**Poin-Poin Kunci Mengapa Filsafat Perbatasan Relevan:**  
 1. **Perbatasan bukan pemisah, tetapi undangan untuk melangkah lebih jauh.**  
    - Setiap batas yang kita temui adalah kesempatan untuk belajar, berkembang, dan menjelajahi perspektif baru.  
    - Baik dalam pemikiran, budaya, atau ilmu pengetahuan, perbatasan mendorong inovasi.  
 
-2. **Logika Perbatasan membantu kita hidup dalam keseimbangan, bukan dalam ekstremisme.**  
+2. **Filsafat Perbatasan membantu kita hidup dalam keseimbangan, bukan dalam ekstremisme.**  
    - Dunia sering kali terjebak dalam dikotomi hitam-putih: **tradisi vs. modernitas, sains vs. agama, konservatisme vs. liberalisme.**  
    - Filsafat Perbatasan menawarkan pendekatan yang lebih dinamis, yang memungkinkan kita melihat **keseimbangan dalam kontradiksi**.  
 
@@ -18,17 +18,17 @@ Sepanjang buku ini, kita telah menjelajahi bagaimana perbatasan bukan hanya tent
    - **Dalam hubungan sosial:** Menemukan cara untuk menjembatani perbedaan tanpa konflik.  
    - **Dalam dunia global:** Mengembangkan pemikiran yang inklusif dan tidak terjebak dalam dogma tertutup.  
 
-💡 **Kesimpulan:**  
+**Kesimpulan:**  
 - **Filsafat Perbatasan bukan hanya teori, tetapi juga cara hidup yang memungkinkan kita bergerak lebih bijak di dunia yang kompleks.**  
 - **Dengan memahami perbatasan, kita bisa menggunakannya sebagai alat pertumbuhan, bukan hambatan.**  
 
 ---
 
-## **10.2 Masa Depan Logika Perbatasan**  
+## **Masa Depan Filsafat Perbatasan**  
 
 Di masa depan, perbatasan tidak akan hilang, tetapi **akan terus berkembang dan berubah**. Oleh karena itu, pemahaman tentang Logika Perbatasan menjadi semakin penting.  
 
-### **📌 Mengapa Logika Perbatasan Akan Semakin Relevan?**  
+**Mengapa Logika Perbatasan Akan Semakin Relevan?**  
 1. **Dunia semakin kompleks dan saling terhubung.**  
    - Globalisasi dan digitalisasi membuat batas antara budaya, negara, dan teknologi semakin kabur.  
    - Kita harus memahami cara **beradaptasi dengan perubahan tanpa kehilangan identitas.**  
@@ -41,17 +41,17 @@ Di masa depan, perbatasan tidak akan hilang, tetapi **akan terus berkembang dan 
    - Perbatasan yang dikelola dengan baik **akan menjadi jembatan, bukan tembok.**  
    - Logika Perbatasan bisa menjadi alat untuk **mengurangi konflik, meningkatkan dialog, dan menciptakan solusi kreatif** untuk berbagai masalah global.  
 
-🚀 **Mari kita kembangkan Filsafat Perbatasan sebagai cara berpikir global!**  
+- **Mari kita kembangkan Filsafat Perbatasan sebagai cara berpikir global!**  
 - **Bukan hanya sebagai teori, tetapi sebagai pendekatan praktis dalam kehidupan sehari-hari.**  
 - **Bukan hanya untuk akademisi, tetapi untuk semua orang yang ingin hidup lebih adaptif dan harmonis.**  
 
 ---
 
-### **🔍 Kesimpulan Akhir**  
+## **Kesimpulan Akhir**  
 - **Perbatasan adalah realitas yang tidak bisa dihindari, tetapi bagaimana kita menghadapinya menentukan bagaimana kita berkembang.**  
 - **Logika Perbatasan mengajarkan bahwa harmoni tidak datang dari keseragaman, tetapi dari kemampuan menjembatani perbedaan.**  
 - **Masa depan membutuhkan lebih banyak pemikir perbatasan—orang-orang yang tidak hanya memahami batas, tetapi juga tahu bagaimana melintasinya dengan bijaksana.**  
 
-📌 **Pertanyaan untuk Renungan:**  
+**Pertanyaan untuk Renungan:**  
 - Bagaimana kita bisa mengembangkan cara berpikir yang lebih berbasis pada jembatan daripada dinding?  
 - Apakah kita sudah cukup memahami perbatasan dalam kehidupan kita sendiri, atau masih terjebak dalam dikotomi ekstrem?  
