@@ -5,10 +5,10 @@
 
 ## **Bagian 1: Logika Perbatasan**  
 - [Logika Perbatasan - Mengelola Ketegangan di Zona Abu-Abu](#bab-2-logika-perbatasan---mengelola-ketegangan-di-zona-abu-abu)  
-  - [Konsep Dasar Logika Perbatasan](#21-konsep-dasar-logika-perbatasan)  
-  - [Gerakan Vertikal → Langit & Bumi](#-1-gerakan-vertikal--langit--bumi)  
-  - [Gerakan Horizontal → Dua Jalan Raya](#-2-gerakan-horizontal--dua-jalan-raya)  
-  - [Peran Logika Perbatasan dalam Pengambilan Keputusan](#22-peran-logika-perbatasan-dalam-pengambilan-keputusan)  
+- [Konsep Dasar Logika Perbatasan](#21-konsep-dasar-logika-perbatasan)  
+- [Gerakan Vertikal → Langit & Bumi](#-1-gerakan-vertikal--langit--bumi)  
+- [Gerakan Horizontal → Dua Jalan Raya](#-2-gerakan-horizontal--dua-jalan-raya)  
+- [Peran Logika Perbatasan dalam Pengambilan Keputusan](#22-peran-logika-perbatasan-dalam-pengambilan-keputusan)  
 
 ## **Bagian 2: Perbatasan dalam Berbagai Dimensi**  
 - [Jembatan - Membangun Keseimbangan antara Dua Dunia](#bab-3-jembatan---membangun-keseimbangan-antara-dua-dunia)  
