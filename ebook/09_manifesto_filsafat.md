@@ -1,10 +1,10 @@
 # **BAB 9: MANIFESTO FILSAFAT PERBATASAN**  
 
-## **9.1 Prinsip-Prinsip Dasar yang Harus Dipahami**  
+## **Prinsip-Prinsip Dasar yang Harus Dipahami**  
 
 Filsafat Perbatasan bukan hanya konsep intelektual, tetapi juga **kerangka berpikir dan cara hidup**. Untuk menerapkannya, ada beberapa prinsip dasar yang harus dipahami:  
 
-### **📌 Prinsip-Prinsip Utama dalam Filsafat Perbatasan**  
+**Prinsip-Prinsip Utama dalam Filsafat Perbatasan**  
 1. **Perbatasan bukan penghalang, tetapi peluang untuk memahami hal baru.**  
    - Perbatasan memungkinkan **pertukaran ide, budaya, dan perspektif** yang dapat memperkaya pemahaman kita.  
    - Alih-alih melihat perbatasan sebagai batas akhir, kita harus melihatnya sebagai **awal dari sesuatu yang baru.**  
@@ -21,17 +21,17 @@ Filsafat Perbatasan bukan hanya konsep intelektual, tetapi juga **kerangka berpi
    - Kesadaran bahwa banyak hal di dunia ini **bersifat kompleks** akan membuat kita lebih terbuka dalam berpikir.  
    - Menghindari pemikiran dogmatis dan belajar menerima **ambiguitas** adalah bagian dari kebijaksanaan hidup.  
 
-💡 **Kesimpulan:**  
+**Kesimpulan:**  
 - **Filsafat Perbatasan bukan tentang memilih satu sisi, tetapi tentang memahami hubungan antara dua sisi.**  
 - **Keputusan terbaik lahir dari kemampuan memahami transisi dan membangun jembatan.**  
 
 ---
 
-## **9.2 Bagaimana Setiap Orang Bisa Berkontribusi?**  
+## **Bagaimana Setiap Orang Bisa Berkontribusi?**  
 
 Filsafat Perbatasan bukan hanya teori untuk akademisi atau filsuf, tetapi sesuatu yang bisa diterapkan oleh **siapa saja dalam kehidupan sehari-hari.**  
 
-### **📌 Cara Berkontribusi dalam Menerapkan Filsafat Perbatasan**  
+**Cara Berkontribusi dalam Menerapkan Filsafat Perbatasan**  
 1. **Menyadari batas dan transisi dalam hidup sendiri.**  
    - Mengenali kapan kita **terjebak dalam pemikiran hitam-putih** dan mulai membuka diri terhadap perspektif lain.  
    - Mengembangkan kesadaran bahwa setiap perubahan membutuhkan **proses adaptasi.**  
@@ -49,28 +49,28 @@ Filsafat Perbatasan bukan hanya teori untuk akademisi atau filsuf, tetapi sesuat
      - **Dalam bisnis** → Mengombinasikan inovasi dengan tradisi.  
      - **Dalam kehidupan pribadi** → Menyeimbangkan kebutuhan individu dengan kebutuhan sosial.  
 
-💡 **Filsafat Perbatasan bukan hanya tentang memahami batas, tetapi juga tentang bagaimana kita berkontribusi dalam menciptakan dunia yang lebih harmonis.**  
+**Filsafat Perbatasan bukan hanya tentang memahami batas, tetapi juga tentang bagaimana kita berkontribusi dalam menciptakan dunia yang lebih harmonis.**  
 
 ---
 
-## **9.3 Membangun Masa Depan dengan Logika Perbatasan**  
+## **Membangun Masa Depan dengan Logika Perbatasan**  
 
-### **📌 Mengapa Logika Perbatasan adalah Kunci Masa Depan?**  
-🚀 **Jika kita ingin hidup lebih bijaksana, kita harus memahami batas, transisi, dan bagaimana cara melintasinya tanpa konflik.**  
+**Mengapa Logika Perbatasan adalah Kunci Masa Depan?**  
+- **Jika kita ingin hidup lebih bijaksana, kita harus memahami batas, transisi, dan bagaimana cara melintasinya tanpa konflik.**  
 - **Di era globalisasi**, batas antar budaya semakin kabur → Kita harus belajar bagaimana mengelola perbedaan dengan cerdas.  
 - **Di era AI dan teknologi**, perbatasan antara manusia dan mesin menjadi tantangan baru → Kita harus memahami bagaimana bekerja sama dengan AI tanpa kehilangan nilai kemanusiaan.  
 - **Dalam politik dan sosial**, dunia semakin terpolarisasi → Filsafat Perbatasan bisa membantu menemukan **jalan tengah yang lebih harmonis.**  
 
-### **📌 Prinsip Utama dalam Membangun Masa Depan dengan Filsafat Perbatasan**  
-🎯 **Fleksibilitas dalam berpikir** → Tidak terpaku pada satu ideologi atau pemikiran kaku.  
-🎯 **Kesadaran akan kompleksitas dunia** → Menghindari solusi instan untuk masalah yang rumit.  
-🎯 **Menciptakan lebih banyak jembatan, bukan tembok** → Berusaha untuk memahami dan menghubungkan perbedaan.  
+**Prinsip Utama dalam Membangun Masa Depan dengan Filsafat Perbatasan**  
+1. **Fleksibilitas dalam berpikir** → Tidak terpaku pada satu ideologi atau pemikiran kaku.  
+2. **Kesadaran akan kompleksitas dunia** → Menghindari solusi instan untuk masalah yang rumit.  
+3. **Menciptakan lebih banyak jembatan, bukan tembok** → Berusaha untuk memahami dan menghubungkan perbedaan.  
 
-💡 **Kesimpulan Akhir:**  
+**Kesimpulan Akhir:**  
 - **Dunia tidak akan pernah bebas dari perbatasan, tetapi kita bisa belajar bagaimana menghadapinya dengan lebih bijaksana.**  
 - **Filsafat Perbatasan adalah cara berpikir yang bisa membantu kita menjalani hidup dengan lebih fleksibel, adaptif, dan harmonis.**  
 - **Tantangan masa depan bukan tentang menghapus perbatasan, tetapi tentang bagaimana kita membangun jembatan yang lebih kuat.**  
 
-📌 **Pertanyaan untuk Renungan:**  
+**Pertanyaan untuk Renungan:**  
 - Bagaimana kita bisa menerapkan Filsafat Perbatasan dalam kehidupan pribadi kita?  
 - Apa perbatasan terbesar yang sedang kita hadapi saat ini, dan bagaimana cara kita menavigasinya?  
