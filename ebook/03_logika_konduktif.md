@@ -1,4 +1,4 @@
-# **BAB 3: LOGIKA KONDUKTIF - MENJEMBATANI PERBATASAN DENGAN BIJAK**  
+# **BAB 3: LOGIKA KONDUKTIF**  
 
 ## **Apa Itu Logika Konduktif?**  
 
