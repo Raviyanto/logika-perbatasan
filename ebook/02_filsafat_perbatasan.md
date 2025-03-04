@@ -1,9 +1,9 @@
 # **BAB 2: LOGIKA PERBATASAN**  
 
-## **Konsep Dasar Logika Perbatasan**  
+## **Konsep Dasar Filsafat Perbatasan**  
 
 Dalam kehidupan, kita sering dihadapkan pada situasi di mana dua sistem berbeda bertemu.  
-**Logika Perbatasan** adalah cara berpikir yang membantu kita memahami dan menavigasi wilayah abu-abu antara dua konsep yang tampaknya bertentangan.  
+**Filsafat Perbatasan** adalah cara berpikir yang membantu kita memahami dan menavigasi wilayah abu-abu antara dua konsep yang tampaknya bertentangan.  
 
 ## **Karakteristik Zona Perbatasan**  
 1. **Zona Konflik** → Ketika dua sistem bertemu tanpa kesepakatan, sering kali terjadi ketegangan atau bahkan benturan.  
@@ -11,7 +11,7 @@ Dalam kehidupan, kita sering dihadapkan pada situasi di mana dua sistem berbeda 
 2. **Zona Peluang** → Jika dikelola dengan baik, zona ini bisa menjadi tempat inovasi dan integrasi.  
    - *Contoh:* Singapura menjadi titik temu antara budaya Timur dan Barat, menciptakan model pemerintahan yang unik.  
 
-## **Dua Jenis Gerakan dalam Logika Perbatasan**  
+## **Dua Jenis Gerakan dalam Filsafat Perbatasan**  
 
 1. **Gerakan Vertikal → Langit & Bumi**  
 Gerakan ini menggambarkan transisi antara **dua level realitas yang berbeda**:  
@@ -48,7 +48,7 @@ Gerakan ini menggambarkan **interaksi antara dua sistem dalam satu level yang be
 
 ---
 
-## **Peran Logika Perbatasan dalam Pengambilan Keputusan**  
+## **Peran Filsafat Perbatasan dalam Pengambilan Keputusan**  
 Mengelola perbatasan membutuhkan pendekatan yang fleksibel dan terbuka.  
 
 ## **Strategi dalam Menghadapi Perbatasan**  
