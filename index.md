@@ -21,6 +21,6 @@ Logika Konduktif adalah pendekatan untuk menyeberangi perbatasan pemikiran denga
 ---
 
 ## 📥 **Unduh E-Book dalam Format PDF/EPUB**  
-📄 **[Download PDF](logika_perbatasan.pdf)**  
-📚 **[Download EPUB](logika_perbatasan.epub)**  
+📄 **[Download PDF](ebook/logika_perbatasan.pdf)**  
+📚 **[Download EPUB](ebook/logika_perbatasan.epub)**  
 
