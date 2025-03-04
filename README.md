@@ -12,3 +12,10 @@
 - Menjadikan Logika Perbatasan sebagai alat berpikir global yang bisa diterapkan dalam berbagai bidang.  
 
 🌍 **Mari kita kembangkan bersama!** 🚀
+
+📚 **Buku ini adalah panduan lengkap untuk memahami dan menerapkan Filsafat Perbatasan dalam kehidupan, ilmu pengetahuan, dan pemikiran manusia.**  
+---
+
+## 📥 **Unduh E-Book dalam Format PDF/EPUB**  
+📄 **[Download PDF](logika_perbatasan.pdf)**  
+📚 **[Download EPUB](logika_perbatasan.epub)**  
