@@ -28,8 +28,6 @@ Gerakan ini menggambarkan transisi antara **dua level realitas yang berbeda**:
 - **Kapan kita naik ke pemahaman lebih tinggi?**  
   - *Jawaban filosofis:* Pemahaman lebih tinggi terjadi ketika kita bisa melihat **hubungan antara dua dunia ini** tanpa harus memilih salah satu.  
 
----
-
 2. **Gerakan Horizontal → Dua Jalan Raya**  
 Gerakan ini menggambarkan **interaksi antara dua sistem dalam satu level yang berbeda**:  
 - **Politik: Kapitalisme vs. Sosialisme**  
