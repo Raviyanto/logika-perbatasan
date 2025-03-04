@@ -1,4 +1,4 @@
-# **BAB 1: PENDAHULUAN - MEMAHAMI FILSAFAT PERBATASAN**  
+# **BAB 1: PENDAHULUAN**  
 
 ## **Apa Itu Perbatasan dalam Filsafat?**  
 Dalam kehidupan, kita selalu menghadapi perbatasan, baik yang bersifat **nyata** maupun **konseptual**.  
